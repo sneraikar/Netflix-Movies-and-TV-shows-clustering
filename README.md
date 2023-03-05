@@ -16,12 +16,19 @@ In 2018, they released an interesting report which shows that the number of TV s
 📖Features 
 
 Show id: Unique ID for every Movie / TV Show
+
 type – Identifier - A Movie or TV Show title – Title of the Movie / TV Show director-director of the content
+
 cast –Actors involved in the movie / show country – Country where the movie / show was produced
+
 date_added – Date it was added on Netflix release_year – Actual Release year of the movie / show
+
 rating – TV Rating of the movie / show duration – Total Duration - in minutes or number of seasons
+
 listed_in – genre
+
 description – The Summary description
+
 
 
 ![wp5063348](https://user-images.githubusercontent.com/80422212/200168358-cca94047-febc-409b-b137-340cb59b6e9f.jpg)
@@ -65,11 +72,14 @@ description – The Summary description
 4. Hierarchical Clustering: Agglomerative and Divisive — Explained |by Satyam Kumar| Towards Data Science|
 
 
+
 📋 Execution Instruction
 
 The given IPython Notebook can be either downloaded to be run locally on Jupyter Notebook or on Google Colab via browser.
 
 
+
+ 
 📜 Credits
 
 Project done by Sneha Raikar

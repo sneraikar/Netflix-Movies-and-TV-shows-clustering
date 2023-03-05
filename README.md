@@ -56,10 +56,16 @@ So K-Means clustering performs better on the dataset.
 
 
 DBSCAN Clustering Algorithm in Machine Learning | KDNuggets
+
 Evaluate Topic Models: Latent Dirichlet Allocation (LDA) | by Shashank Kapadia | Towards Data Science.
+
+
 Agglomerative Clustering and Dendrograms — Explained | by Satyam Kumar | Towards Data Science.
-Understanding Topic Coherence Measures | by João Pedro | Towards Data Science
+
+
+
 Hierarchical Clustering: Agglomerative and Divisive — Explained |by Satyam Kumar| Towards Data Science|
+
 
 📋 Execution Instruction
 
@@ -68,6 +74,7 @@ The given IPython Notebook can be either downloaded to be run locally on Jupyter
 📜 Credits
 
 Project done by Sneha Raikar
+
 Verified by Almabetter
 
 

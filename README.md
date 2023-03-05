@@ -42,4 +42,34 @@ description – The Summary description
 * K-Means
 * Hierarchical
 
+📖 Results
+
+The performance of three unsupervised machine learning algorithms, namely DBSCAN, K-means and Hierarchical Clustering was evaluated and compared to cluster Netflix movies and TV shows.
+
+Firstly K-Means clustering unsupervised Machine learning technique was applied.For this elbow method was used to find K value and Silhouette score of 0.35 was obtained.
+
+Next Hierarchical clsutering was applied for which dendogram was obtained.Silhouette score of 0.32 was obtained.
+
+So K-Means clustering performs better on the dataset.
+
+📖 References
+
+
+DBSCAN Clustering Algorithm in Machine Learning | KDNuggets
+Evaluate Topic Models: Latent Dirichlet Allocation (LDA) | by Shashank Kapadia | Towards Data Science.
+Agglomerative Clustering and Dendrograms — Explained | by Satyam Kumar | Towards Data Science.
+Understanding Topic Coherence Measures | by João Pedro | Towards Data Science
+Hierarchical Clustering: Agglomerative and Divisive — Explained |by Satyam Kumar| Towards Data Science|
+
+📋 Execution Instruction
+
+The given IPython Notebook can be either downloaded to be run locally on Jupyter Notebook or on Google Colab via browser.
+
+📜 Credits
+
+Project done by Sneha Raikar
+Verified by Almabetter
+
+
+
 

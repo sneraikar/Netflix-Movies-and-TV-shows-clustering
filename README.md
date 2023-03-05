@@ -16,15 +16,20 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 ![wp5063348](https://user-images.githubusercontent.com/80422212/200168358-cca94047-febc-409b-b137-340cb59b6e9f.jpg)
 📖 EDA Observations
-•	Exploratory Data Analysis
-•	Understanding what type of content is available in different countries
-•	Is Netflix increasingly focused on TV rather than movies in recent years?
-•	Clustering similar content by matching text-based features
 
-Our goal here is to make an unsupervised clustering model, which will help in garnering insights on Netflix and how its content is being consumed.
+* Majority of content available on Netflix is Movies.
+* In recent years though many TV shows have been added, number Movies outpower the number of TV shows.
+* United States and India top the countries that produce all of the available content on Netflx.
+* TV-MA tops the graphs,indicating that mature content is more popular on Netflix.Then to perform clustering based on matching text features - Unsupervised Machine learning models were used.
+![image](https://user-images.githubusercontent.com/80422212/222959128-1d4e5f27-11aa-478e-8245-f9f59066e4d1.png)
 
 
-A brief summary of the dataset is given below:
+
+
+📖 ML Models Trained and Evaluated
+DBSCAN
+K-Means
+Hierarchical
 
 Show id: Unique ID for every Movie / TV Show
 type – Identifier - A Movie or TV Show title – Title of the Movie / TV Show director-director of the content

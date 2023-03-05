@@ -1,11 +1,15 @@
 # Netflix-Movies-and-TV-shows-clustering
 
 📖 Introduction
+
+
 The project aims to cluster the video content available on Netflix based on the company’s site data. Apart from aiding in the development of an efficient recommendation system, clustering the video content would also provide information about the type of content the company is interested in listing on its site. Thus giving an insight to content creators and filmmakers on the type of video content in demand.
 
 
 
 📖About the dataset
+
+
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flexible which is a third- party Netflix search engine.
 In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
 

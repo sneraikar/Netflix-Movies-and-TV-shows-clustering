@@ -1,19 +1,19 @@
 # Netflix-Movies-and-TV-shows-clustering
 
-📖 Introduction
+📖 **Introduction**
 
 
 The project aims to cluster the video content available on Netflix based on the company’s site data. Apart from aiding in the development of an efficient recommendation system, clustering the video content would also provide information about the type of content the company is interested in listing on its site. Thus giving an insight to content creators and filmmakers on the type of video content in demand.
 
 
 
-📖About the dataset
+📖**About the dataset**
 
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flexible which is a third- party Netflix search engine.
 In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
 
-📖Features 
+📖**Features **
 
 Show id: Unique ID for every Movie / TV Show
 
@@ -32,7 +32,7 @@ description – The Summary description
 
 
 ![wp5063348](https://user-images.githubusercontent.com/80422212/200168358-cca94047-febc-409b-b137-340cb59b6e9f.jpg)
-📖 EDA Observations
+📖 **EDA Observations**
 
 * Majority of content available on Netflix is Movies.
 * In recent years though many TV shows have been added, number Movies outpower the number of TV shows.
@@ -43,13 +43,14 @@ description – The Summary description
 
 
 
-📖 ML Models Trained and Evaluated
+📖 **ML Models Trained and Evaluated**
 
 * DBSCAN
 * K-Means
 * Hierarchical
 
-📖 Results
+
+📖 **Results**
 
 * The performance of three unsupervised machine learning algorithms, namely DBSCAN, K-means and Hierarchical Clustering was evaluated and compared to cluster Netflix movies and TV shows.
 
@@ -59,7 +60,7 @@ description – The Summary description
 
 * So K-Means clustering performs better on the dataset.
 
-📖 References
+📖 **References**
 
 
 1. DBSCAN Clustering Algorithm in Machine Learning | KDNuggets
@@ -73,14 +74,14 @@ description – The Summary description
 
 
 
-📋 Execution Instruction
+📋 **Execution Instruction**
 
 The given IPython Notebook can be either downloaded to be run locally on Jupyter Notebook or on Google Colab via browser.
 
 
 
  
-📜 Credits
+📜 **Credits**
 
 Project done by Sneha Raikar
 
